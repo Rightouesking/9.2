@@ -1,0 +1,14 @@
+
+# 📝 Character Counter App
+
+This is a simple React + TypeScript application that shows real-time text statistics, including:
+
+- Character count
+- Word count
+- Estimated reading time
+
+## 📦 How to Run
+
+1. Install dependencies:
+   ```bash
+   npm install
